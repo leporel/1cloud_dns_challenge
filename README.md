@@ -9,7 +9,7 @@
 
 /scripts/cloud_dns_challenge -api "api_secret_key"
 
-sleep 25
+sleep 45
 ```
 
 ### del.sh
